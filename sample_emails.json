@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "sender": "no-reply@flipkart.com",
+    "subject": "Diwali Sale - Up to 70% OFF!",
+    "body": "Hello! Our Diwali sale is live with huge discounts across categories. Shop now...",
+    "date": "2025-10-20"
+  },
+  {
+    "id": "2",
+    "sender": "hr@company.com",
+    "subject": "Interview Invitation - Software Engineer",
+    "body": "Congratulations! We reviewed your application and would like to schedule an interview on Nov 5...",
+    "date": "2025-10-18"
+  },
+  {
+    "id": "3",
+    "sender": "college@university.edu",
+    "subject": "Assessment Deadline Reminder",
+    "body": "Dear student, submit your internal assessment by Oct 30. Attachments required are...",
+    "date": "2025-10-24"
+  },
+  {
+    "id": "4",
+    "sender": "alerts@bank.com",
+    "subject": "Unusual Login Attempt",
+    "body": "We noticed a login attempt on your account from a new device. If this wasn't you, please reset your password immediately.",
+    "date": "2025-10-26"
+  }
+]
