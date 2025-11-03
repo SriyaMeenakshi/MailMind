@@ -63,6 +63,7 @@ MailMind/
 
 # 1️⃣ Clone the repository
 git clone https://github.com/SriyaMeenakshi/MailMind.git
+
 cd MailMind
 
 # 2️⃣ Create and activate virtual environment
@@ -78,9 +79,6 @@ pip install -r requirements.txt
 # 4️⃣ Run the app
 streamlit run app.py
 Once launched, your default browser will open:
-
-arduino
-Copy code
 http://localhost:8501
 🧪 Sample Dataset
 For testing, sample_emails.json contains 50 mock emails (work, promotions, alerts, and personal).
