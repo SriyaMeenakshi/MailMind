@@ -48,15 +48,15 @@ The app mimics a real-world productivity assistant and was built for **ByteWars 
 
 ## 📂 Folder Structure
 
-MailMind/
-├── app.py
-├── model.py
-├── sample_emails.json
-├── requirements.txt
-├── assets/
-│ ├── mailmind_logo.png
-│ └── (other illustrations)
-└── README.md
+# MailMind/
+# ├── app.py
+# ├── model.py
+# ├── sample_emails.json
+# ├── requirements.txt
+# ├── assets/
+# │ ├── mailmind_logo.png
+# │ └── (other illustrations)
+# └── README.md
 
 
 ## ⚙️ Setup & Run Locally
@@ -80,11 +80,11 @@ pip install -r requirements.txt
 streamlit run app.py
 Once launched, your default browser will open:
 http://localhost:8501
-🧪 Sample Dataset
+# 🧪 Sample Dataset
 For testing, sample_emails.json contains 50 mock emails (work, promotions, alerts, and personal).
 You can upload your own email export in JSON/CSV format to see live analysis.
 
-🧠 Future Enhancements
+# 🧠 Future Enhancements
 Gmail/Outlook API integration
 
 Voice-based email summaries
@@ -95,14 +95,14 @@ Multi-user login & saved preferences
 
 Analytics Dashboard (daily/weekly email insights)
 
-👩🏻‍💻 Author
+# 👩🏻‍💻 Author
 Sriya Meenakshi Chalamalasetty
 🎓 B.Tech CSE (AI & ML) | Passionate about building intelligent, human-centered products
 🔗 LinkedIn https://www.linkedin.com/in/sriya-meenakshi-chalamalasetty/
 🌐 MailMind Live App https://mailmindai.streamlit.app/
 
-🏆 Hackathon Credit
+# 🏆 Hackathon Credit
 This project was created as part of ByteWars Hackathon 2025, organized by the
 Department of Commerce, Delhi School of Economics (DSE), New Delhi.
 
-“Innovation begins when you solve your own pain — MailMind was born from an inbox with 2000+ unread mails.”
+# “Innovation begins when you solve your own pain — MailMind was born from an inbox with 2000+ unread mails.”
